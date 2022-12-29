@@ -14,6 +14,6 @@ Latest estimates of Stars:<br>
 Next update: March 3rd, 2023
 <br> <br>
 <B> Archives </B> <br> <br>
--- <a href="https://docs.google.com/spreadsheets/d/1WvwkhmFnfpnvZQZIZRiMkF7Dk2ffA102/edit?usp=share_link&ouid=106634438744446095159&rtpof=true&sd=true">Estimates based on data through 2022Q2</a> <br> <br>
--- <a href="https://docs.google.com/spreadsheets/d/1M2Ro5_pwFHbjYUan0CuQrgxX6XZwzwmU/edit?usp=share_link&ouid=106634438744446095159&rtpof=true&sd=true">Estimates based on data through 2022Q1</a> <br> <br>
+-- <a href="https://github.com/zamansaeed/macrostars/blob/main/Stars_Zaman_2022_update2022Q2.xlsx">Estimates based on data through 2022Q2</a> <br> <br>
+-- <a href="https://github.com/zamansaeed/macrostars/blob/main/Stars_Zaman_2022_update2022Q1.xlsx">Estimates based on data through 2022Q1</a> <br> <br>
 -- <a href="https://github.com/zamansaeed/macrostars/blob/main/Stars_Zaman_2022_update2021Q4.xlsx">Estimates based on data through 2021Q4</a> <br> <br>
