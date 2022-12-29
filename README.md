@@ -1,9 +1,9 @@
 # macrostars
-<B>Unified Framework to Estimate Macroeconomic Stars</B> <br>
+<B>A Unified Framework to Estimate Macroeconomic Stars</B> <br>
 by <a href="https://www.saeedzaman.com/home">Saeed Zaman</a> (Research Economist, Federal Reserve Bank of Cleveland)
 <br> <br>
 The paper is available <a href="https://doi.org/10.26509/frbc-wp-202123r">here</a>
-<br> <br>
+<br> <br> <hr>
 Latest estimates of Stars (and output gap):<br>
 -- Based on US data through 2022Q3 <br>
 <br>
@@ -17,3 +17,5 @@ Next update: March 3rd, 2023
 -- <a href="https://github.com/zamansaeed/macrostars/blob/main/Stars_Zaman_2022_update2022Q2.xlsx">Estimates based on data through 2022Q2</a> <br> <br>
 -- <a href="https://github.com/zamansaeed/macrostars/blob/main/Stars_Zaman_2022_update2022Q1.xlsx">Estimates based on data through 2022Q1</a> <br> <br>
 -- <a href="https://github.com/zamansaeed/macrostars/blob/main/Stars_Zaman_2022_update2021Q4.xlsx">Estimates based on data through 2021Q4</a> <br> <br>
+<hr>
+Estimates of Stars and other objects are also available to download from my personal page <a href="https://www.saeedzaman.com/stars">here</a>
