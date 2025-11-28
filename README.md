@@ -13,7 +13,8 @@ Latest estimates of Stars (and output gap):<br>
 <br> <br>
 <a href="https://github.com/zamansaeed/macrostars/blob/main/Stars_Zaman_2025_update2025Q2.xlsx">Download the latest historical time series of stars (and other objects of interest) [Excel file]</a>
 <br> <br>
-Next update: November 28, 2025
+Next update: The update has been delayed because it relies on official data series that have been affected by the recent suspension of federal government services. The estimates will be updated when all the official data used by the model are released. As of now, I anticipate the new update date to be December 24, 2025.  
+
 <br> <br>
 <B> Archives </B> <br> <br>
 -- <a href="https://github.com/zamansaeed/macrostars/blob/main/Stars_Zaman_2025_update2025Q1.xlsx">Estimates based on data through 2025Q1 [Excel file]</a> <br> <br>
