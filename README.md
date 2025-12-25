@@ -1,6 +1,6 @@
 # macrostars
 <B>A Unified Framework to Estimate Macroeconomic Stars</B> <br>
-by <a href="https://www.saeedzaman.com/home">Saeed Zaman</a> (Research Economist, Federal Reserve Bank of Cleveland) <br>
+by <a href="https://www.saeedzaman.com/home">Saeed Zaman</a> (Senior Research Economist, Federal Reserve Bank of Cleveland) <br>
 -- Forthcoming: <i>The Review of Economics and Statistics </i>
 --  <a href="https://doi.org/10.1162/rest_a_01570">https://doi.org/10.1162/rest_a_01570</a>
 <br> <br>
