@@ -18,6 +18,7 @@ Next update: February 5th, 2027.
 
 <br> <br>
 <B> Archives </B> <br> <br>
+-- <a href="https://github.com/zamansaeed/macrostars/blob/main/Stars_Zaman_2026_update2026Q2.xlsx">Estimates based on data through 2026Q2 [Excel file]</a> <br> <br>
 -- <a href="https://github.com/zamansaeed/macrostars/blob/main/Stars_Zaman_2026_update2026Q1.xlsx">Estimates based on data through 2026Q1 [Excel file]</a> <br> <br>
 -- <a href="https://github.com/zamansaeed/macrostars/blob/main/Stars_Zaman_2025_update2025Q4_March05.xlsx">Estimates based on data through 2025Q4 [Excel file]</a> <br> <br>
 -- <a href="https://github.com/zamansaeed/macrostars/blob/main/Stars_Zaman_2025_update2025Q3_Jan8.xlsx">Estimates based on data through 2025Q3 [Excel file]</a> <br> <br>
